@@ -20,12 +20,7 @@ function App() {
       </BrowserRouter>
    {/* <HomePage/> */}
 <ZainNaseer/>
-<BrowserRouter>
-<Routes>
-  <Route path='/' element={<HomePage/>}/>
-   <Route path='/NextPage' element={<NextPage/>}/>
-</Routes>
-</BrowserRouter>
+
 
     </div>
   );

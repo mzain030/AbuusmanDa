@@ -4,6 +4,7 @@ import HomePage from './components/HomePage';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NextPage from './components/NextPage';
 import Sufyan from './components/Sufyan';
+import ZainNaseer from './components/ZainNaseer';
 
 function App() {
   return (
@@ -17,6 +18,14 @@ function App() {
           <Route path='/NextPage' element={<NextPage />} />
         </Routes>
       </BrowserRouter>
+   {/* <HomePage/> */}
+<ZainNaseer/>
+<BrowserRouter>
+<Routes>
+  <Route path='/' element={<HomePage/>}/>
+   <Route path='/NextPage' element={<NextPage/>}/>
+</Routes>
+</BrowserRouter>
 
     </div>
   );

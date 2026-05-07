@@ -3,12 +3,13 @@ import './App.css';
 import HomePage from './components/HomePage';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NextPage from './components/NextPage';
+import ZainNaseer from './components/ZainNaseer';
 
 function App() {
   return (
     <div className="App">
    {/* <HomePage/> */}
-
+<ZainNaseer/>
 <BrowserRouter>
 <Routes>
   <Route path='/' element={<HomePage/>}/>

@@ -3,7 +3,8 @@ import React from 'react'
 const UsmanManii = () => {
   return (
     <div>
-<button type="button" class="btn btn-danger">Danger</button>
+      <h1>Rana usman khan</h1>
+<button type="button" class="btn btn-danger">Danger sir</button>
     </div>
     
   )

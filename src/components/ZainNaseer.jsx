@@ -5,6 +5,7 @@ const ZainNaseer = () => {
     <div>
       <h1>Zain Naseer</h1>
       <p>This is a simple React component.</p>
+      its ok
     </div>
   )
 }

@@ -13,6 +13,7 @@ function App() {
       {/* <HomePage/> */}
       <Sufyan/>
       <UsmanManii/>
+    
 
       <BrowserRouter>
         <Routes>
@@ -20,8 +21,8 @@ function App() {
           <Route path='/NextPage' element={<NextPage />} />
         </Routes>
       </BrowserRouter>
-   {/* <HomePage/> */}
-<ZainNaseer/>
+
+
 
 
     </div>

@@ -35,7 +35,7 @@ const HomePage = () => {
   return (
     <div>
       <h1>Welcome to the HomePage</h1>
-      <button style={{ backgroundColor: 'red', border: "none", padding: "13px" }} onClick={NextPage}>CreateUser</button>
+    <button type="button" class="btn btn-info" onClick={NextPage}>Create User</button>
 
       <table class="table">
         <thead>

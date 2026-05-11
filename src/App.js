@@ -20,6 +20,8 @@ function App() {
           <Route path='/' element={<HomePage />} />
           <Route path='/NextPage' element={<NextPage />} />
         </Routes>
+        <h2>usman younas</h2>
+        <h2>sir zain naseer saab</h2>
       </BrowserRouter>
 
 

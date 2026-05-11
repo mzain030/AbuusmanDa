@@ -16,7 +16,7 @@ function App() {
       <UsmanManii/>
       <ZainNaseer/>
       <Yes/>
-      <h1>add by sufyan</h1>
+      <h1>safyyan gndooo</h1>
        <h1>add by sufyan</h1>
     
 <h3>Zain naseer</h3>

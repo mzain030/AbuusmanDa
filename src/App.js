@@ -17,6 +17,7 @@ function App() {
       <ZainNaseer/>
       <Yes/>
       <h1>safyyan gndooo</h1>
+      <h1>add new code and </h1>
        <h1>add by sufyan</h1>
     
 <h3>Zain naseer</h3>
@@ -27,7 +28,7 @@ function App() {
           <Route path='/NextPage' element={<NextPage />} />
            <Route path='/Sufyan' element={<Sufyan/>} />
         </Routes>
-        <h2>usman younas</h2>
+        <h2>usman bonda</h2>
         <h2>sir zain naseer saab</h2>
       </BrowserRouter>
 

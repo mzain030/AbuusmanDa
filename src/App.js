@@ -16,10 +16,14 @@ function App() {
       <UsmanManii/>
       <ZainNaseer/>
       <Yes/>
+<<<<<<< Updated upstream
       <h1>add by sufyan</h1>
        <h1>add by sufyan</h1>
+=======
+>>>>>>> Stashed changes
     
-
+<h3>Zain naseer</h3>
+<h3>Naseer</h3>
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<HomePage />} />

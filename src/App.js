@@ -14,13 +14,10 @@ function App() {
       {/* <HomePage/> */}
       {/* <Sufyan/> */}
       <UsmanManii/>
-<<<<<<< HEAD
       <ZainNaseer/>
       <Yes/>
       <h1>add by sufyan</h1>
        <h1>add by sufyan</h1>
-=======
->>>>>>> 4f3f4e7d43b8ce7f8b8883f47c77b1512f2e1130
     
 <h3>Zain naseer</h3>
 <h3>Naseer</h3>

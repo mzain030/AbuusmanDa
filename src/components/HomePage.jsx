@@ -63,6 +63,11 @@ const HomePage = () => {
                     <td>{item.age}</td>
                     <td>{item.address}</td>
 
+                    <div>
+                      usman
+                      younas
+                    </div>
+ 
                   </tr>
 
                 </tbody>

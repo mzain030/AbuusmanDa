@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       {/* <HomePage/> */}
-      <Sufyan/>
+      {/* <Sufyan/> */}
       <UsmanManii/>
     
 
@@ -19,6 +19,7 @@ function App() {
         <Routes>
           <Route path='/' element={<HomePage />} />
           <Route path='/NextPage' element={<NextPage />} />
+           <Route path='/Sufyan' element={<Sufyan/>} />
         </Routes>
       </BrowserRouter>
 

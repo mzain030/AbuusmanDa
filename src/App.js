@@ -6,19 +6,25 @@ import NextPage from './components/NextPage';
 import Sufyan from './components/Sufyan';
 import ZainNaseer from './components/ZainNaseer';
 import UsmanManii from './components/UsmanManii';
+import Yes from './components/Yes';
 
 function App() {
   return (
     <div className="App">
       {/* <HomePage/> */}
-      <Sufyan/>
+      {/* <Sufyan/> */}
       <UsmanManii/>
+      <ZainNaseer/>
+      <Yes/>
+      <h1>add by sufyan</h1>
+       <h1>add by sufyan</h1>
     
 
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<HomePage />} />
           <Route path='/NextPage' element={<NextPage />} />
+           <Route path='/Sufyan' element={<Sufyan/>} />
         </Routes>
       </BrowserRouter>
 

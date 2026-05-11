@@ -6,6 +6,7 @@ import NextPage from './components/NextPage';
 import Sufyan from './components/Sufyan';
 import ZainNaseer from './components/ZainNaseer';
 import UsmanManii from './components/UsmanManii';
+import Yes from './components/Yes';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       {/* <HomePage/> */}
       {/* <Sufyan/> */}
       <UsmanManii/>
+      <ZainNaseer/>
+      <Yes/>
     
 
       <BrowserRouter>

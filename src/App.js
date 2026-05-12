@@ -16,7 +16,7 @@ function App() {
       <UsmanManii/>
       <ZainNaseer/>
       <Yes/>
-      <h1>safyyan gndoo</h1>
+      <h1>safyyan </h1>
       <h1>add new code and </h1>
        <h1>add by sufyan</h1>
     

@@ -64,8 +64,7 @@ const HomePage = () => {
                     <td>{item.address}</td>
 
                     <div>
-                      usman
-                      younas
+                      Toper
                     </div>
  
                   </tr>

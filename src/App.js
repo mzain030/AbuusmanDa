@@ -28,7 +28,7 @@ function App() {
           <Route path='/NextPage' element={<NextPage />} />
            <Route path='/Sufyan' element={<Sufyan/>} />
         </Routes>
-        <h2>usman bonda</h2>
+        <h2>usman </h2>
         <h2>sir zain naseer saab</h2>
       </BrowserRouter>
 
